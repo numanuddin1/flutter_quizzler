@@ -96,7 +96,7 @@ class _QuizPageState extends State<QuizPage> {
               onPressed: () {
                 checkAnswer(true);
               },
-              child: Text('True'),
+              child: Text('TRUE'),
             ),
           ),
         ),
@@ -108,7 +108,7 @@ class _QuizPageState extends State<QuizPage> {
               onPressed: () {
                 checkAnswer(false);
               },
-              child: Text('False'),
+              child: Text('FALSE'),
             ),
           ),
         ),

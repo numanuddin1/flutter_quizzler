@@ -6,6 +6,7 @@ class Question{
   Question({required q , required a}){
     questionText = q;
     questionAnswer = a;
+
   }
 
 }
